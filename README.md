@@ -2,9 +2,6 @@
 #### *email: OltiG7164@hstat.org*
 
 * [I go to the school: hstat](http://www.hstat.org/)
-*
-
-# Charlie is the better swimmer
 
 
 _bio: i am a 16 yr old guy_
@@ -16,3 +13,5 @@ _bio: i am a 16 yr old guy_
 * 6:english .
 * 7:spanish .
 * 8:pre-calc .
+
+# Reviewed by Charlie Eydman
