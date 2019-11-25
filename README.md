@@ -2,6 +2,10 @@
 #### *email: OltiG7164@hstat.org*
 
 * [I go to the school: hstat](http://www.hstat.org/)
+*
+
+# Charlie is the better swimmer
+
 
 _bio: i am a 16 yr old guy_
 * 1:gym .
